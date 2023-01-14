@@ -26,7 +26,7 @@ When doing any data analysis it is important to understand first as much about t
 ### Perform clustring algorithms : [click here to view the code](https://github.com/oumaima-sboui/analysis-and-clustering-of-data-world-university-ranking/blob/master/Data_clustering_university_rank.ipynb) 
 
 Clustering is an unsupervised learning method which groupe unlabeled examples.
-it's the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects on the basis of similarity and dissimilarity between them.([For more click here])(https://www.geeksforgeeks.org/clustering-in-machine-learning/).
+it's the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects on the basis of similarity and dissimilarity between them.[(For more click here)](https://www.geeksforgeeks.org/clustering-in-machine-learning/).
 We follow the steps below :
 * carry out 4 approaches of clustering : k-means , Affinity Propagation , DBSCAN and hierarchical clustering.
 * evaluate them by the measurement of metrics.
